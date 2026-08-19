@@ -2,6 +2,8 @@
 
 ## Building **distributed systems and data-intensive applications**.
 
+Reach me at:
+
 <a href="https://linkedin.com/in/komil-pulatov" target="_blank">
   <img align="center"
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
