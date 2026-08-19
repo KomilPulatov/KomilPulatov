@@ -1,18 +1,11 @@
-### Hi, I'm Komil 👋
+### KOMIL PULATOV 
 
-Full-stack engineer focused on **Laravel**, **Flutter**, and **PostgreSQL**.  
-I build modular ERP and POS systems — from the back-office web UI to the offline-first mobile cashier app.
+#### Stack
 
-#### 🔧 Current Stack
-
-**Backend** — Laravel 13 · Livewire 4 · PostgreSQL · Redis  
-**Mobile** — Flutter · Dart · BLoC · Drift (offline-first)  
+**Backend** — Laravel · PHP · PostgreSQL · Redis
+**Frontend** — React · TypeScript 
+**Mobile** — Flutter · Dart · BLoC
 **DevOps** — GitHub Actions · Envoyer · Tailscale  
-
-#### 🚀 What I'm Working On
-
-- **Premium POS/ERP** — Modular monolith serving retail businesses in Uzbekistan with real-time sync between server and offline tablets
-- **CourseFlow Platform** — Concurrent-safe course registration system (FastAPI · PostgreSQL · Redis · RabbitMQ · WebSockets)
 
 #### 📫 Reach Me
 
