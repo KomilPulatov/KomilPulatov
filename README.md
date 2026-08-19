@@ -4,7 +4,7 @@
 
 [LinkedIn](https://linkedin.com/in/komil-pulatov) · [Email](mailto:k.pulatov2006@gmail.com)
 
-<div>
+</div>
 
 ---
 
