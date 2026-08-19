@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
 
 ## Building **distributed systems and data-intensive applications**.
 
 [LinkedIn](https://linkedin.com/in/komil-pulatov) · [Email](mailto:k.pulatov2006@gmail.com)
 
-</p>
+<div>
 
 ---
 
@@ -19,8 +19,8 @@
 
 ---
 
-<p align="center">
+<div align="center">
 
 **Open to Software Engineering opportunities**
 
-</p>
+</div>
