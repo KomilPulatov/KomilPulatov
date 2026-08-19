@@ -1,9 +1,3 @@
-# <div align="center">Komil Pulatov</div>
-
-<div align="center">
-
-**Full-Stack Software Engineer**
-
 Building **distributed systems and data-intensive applications**.
 
 [LinkedIn](https://linkedin.com/in/komil-pulatov) · [Email](mailto:k.pulatov2006@gmail.com)
