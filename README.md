@@ -1,6 +1,6 @@
 <div align="center">
 
-## Komil Pulatov.
+## Komil Pulatov
 
 <a href="https://linkedin.com/in/komil-pulatov" target="_blank">
   <img align="center"
