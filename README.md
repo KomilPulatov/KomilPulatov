@@ -3,10 +3,18 @@
 ## Building **distributed systems and data-intensive applications**.
 
 <a href="https://linkedin.com/in/komil-pulatov" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="30" height="30">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="komil-pulatov"
+       height="30"
+       width="40" />
 </a>
 <a href="mailto:k.pulatov2006@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="30" height="30">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+       alt="Email"
+       height="30"
+       width="40" />
 </a>
 </div>
 
