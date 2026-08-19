@@ -4,6 +4,11 @@
 
 </div>
 
+<p>
+  Software Developer and Computer Science student focused on distributed systems and data-intensive applications.<br>
+  Passionate about solving real-world problems, continuous learning, and building technology that makes a difference.
+</p>
+
 ---
 
 ### Stack
