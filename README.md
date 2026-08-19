@@ -25,6 +25,6 @@ Building **distributed systems and data-intensive applications**.
 
 <div align="center">
 
-📫 **Open to Software Engineering opportunities**
+**Open to Software Engineering opportunities**
 
 </div>
