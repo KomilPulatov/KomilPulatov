@@ -11,7 +11,7 @@
 </a>
 <a href="mailto:k.pulatov2006@gmail.com">
   <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+       src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://cdn.simpleicons.org/gmail/EA4335)"
        alt="Email"
        height="30"
        width="40" />
