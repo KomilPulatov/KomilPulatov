@@ -2,22 +2,6 @@
 
 ## Komil Pulatov
 
-<a href="https://linkedin.com/in/komil-pulatov" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
-    width="40"
-    height="40"
-  />
-</a>&nbsp;
-<a href="mailto:k.pulatov2006@gmail.com">
-  <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
-    alt="Email"
-    width="40"
-    height="40"
-  />
-</a>
 </div>
 
 ---
