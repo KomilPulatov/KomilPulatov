@@ -55,7 +55,7 @@
 <p>
   <a href="https://erp.ufarmer.uz"><img src="https://www.google.com/s2/favicons?domain=erp.ufarmer.uz&sz=64" width="40" height="40" alt="UFarmer ERP"/></a>&nbsp;
   <a href="https://ufarmer.uz"><img src="https://www.google.com/s2/favicons?domain=ufarmer.uz&sz=64" width="40" height="40" alt="UFarmer"/></a>&nbsp;
-  <a href="https://uzagroindex.uz"><img src="https://www.google.com/s2/favicons?domain=uzagroindex.uz&sz=40" width="40" height="28" alt="UzAgroIndex"/></a>
+  <a href="https://uzagroindex.uz"><img src="https://www.google.com/s2/favicons?domain=uzagroindex.uz&sz=64" width="40" height="40" alt="UzAgroIndex"/></a>
 </p>
 
 **UFarmer ERP** · **UFarmer** · **Ustozation** · **UFarmer Seller** · **UzAgroIndex**
